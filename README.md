@@ -1,2 +1,3 @@
-# docker-compose-dockerfile
-docker-compose call dockerfile
+# Hello docker
+- Build Dockerfile
+- docker-compose build from Dockerfile
